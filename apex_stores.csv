@@ -1,0 +1,61 @@
+store_id,store_name,brand,region,city,store_type,opening_year,sq_footage,enterprise_zone,ez_tax_relief_pct
+STR-001,Reading Retail Park (Core),Core,South East,Reading,Retail Park,2010,5379,False,0.0
+STR-002,Oxford Retail Park (Core),Core,South East,Oxford,Retail Park,2011,5409,False,0.0
+STR-003,Reading High Street (Core),Core,South East,Reading,High Street,2020,3075,False,0.0
+STR-004,Oxford Retail Park (Core),Core,South East,Oxford,Retail Park,2016,5561,True,20.1
+STR-005,Reading High Street (Core),Core,South East,Reading,High Street,2013,3516,False,0.0
+STR-006,Reading High Street (Value),Value,South East,Reading,High Street,2016,3317,False,0.0
+STR-007,Guildford High Street (Premium),Premium,South East,Guildford,High Street,2017,3366,False,0.0
+STR-008,Brighton Retail Park (Premium),Premium,South East,Brighton,Retail Park,2012,5040,False,0.0
+STR-009,Canterbury High Street (Value),Value,South East,Canterbury,High Street,2019,3394,False,0.0
+STR-010,Oxford High Street (Value),Value,South East,Oxford,High Street,2016,2270,False,0.0
+STR-011,London High Street (Premium),Premium,South East,London,High Street,2019,3213,False,0.0
+STR-012,Brighton High Street (Core),Core,South East,Brighton,High Street,2019,3254,False,0.0
+STR-013,Guildford High Street (Core),Core,South East,Guildford,High Street,2015,3486,False,0.0
+STR-014,Guildford High Street (Premium),Premium,South East,Guildford,High Street,2018,2996,False,0.0
+STR-015,Brighton Shopping Mall (Core),Core,South East,Brighton,Shopping Mall,2016,4554,False,0.0
+STR-016,Brighton Retail Park (Value),Value,South East,Brighton,Retail Park,2014,5264,False,0.0
+STR-017,Manchester Shopping Mall (Core),Core,North West,Manchester,Shopping Mall,2020,3408,True,16.2
+STR-018,Manchester Shopping Mall (Premium),Premium,North West,Manchester,Shopping Mall,2019,3552,False,0.0
+STR-019,Preston High Street (Core),Core,North West,Preston,High Street,2014,3888,True,19.9
+STR-020,Preston High Street (Premium),Premium,North West,Preston,High Street,2014,3131,False,0.0
+STR-021,Blackpool Shopping Mall (Core),Core,North West,Blackpool,Shopping Mall,2013,4809,False,0.0
+STR-022,Chester Retail Park (Core),Core,North West,Chester,Retail Park,2011,4789,False,0.0
+STR-023,Blackpool Retail Park (Value),Value,North West,Blackpool,Retail Park,2011,5778,False,0.0
+STR-024,Liverpool High Street (Core),Core,North West,Liverpool,High Street,2008,3210,False,0.0
+STR-025,Bolton High Street (Premium),Premium,North West,Bolton,High Street,2011,1881,False,0.0
+STR-026,Manchester High Street (Value),Value,North West,Manchester,High Street,2012,3953,False,0.0
+STR-027,Chester High Street (Core),Core,North West,Chester,High Street,2013,3757,False,0.0
+STR-028,Chester High Street (Premium),Premium,North West,Chester,High Street,2020,2025,False,0.0
+STR-029,Bolton Retail Park (Value),Value,North West,Bolton,Retail Park,2014,5649,False,0.0
+STR-030,Chester High Street (Core),Core,North West,Chester,High Street,2009,3397,False,0.0
+STR-031,Leicester Shopping Mall (Core),Core,Midlands,Leicester,Shopping Mall,2018,3818,False,0.0
+STR-032,Nottingham Retail Park (Core),Core,Midlands,Nottingham,Retail Park,2011,5855,False,0.0
+STR-033,Leicester High Street (Core),Core,Midlands,Leicester,High Street,2010,3639,True,16.9
+STR-034,Stoke High Street (Premium),Premium,Midlands,Stoke,High Street,2010,2531,False,0.0
+STR-035,Leicester Retail Park (Premium),Premium,Midlands,Leicester,Retail Park,2014,4763,False,0.0
+STR-036,Derby High Street (Value),Value,Midlands,Derby,High Street,2013,2138,False,0.0
+STR-037,Leicester Shopping Mall (Premium),Premium,Midlands,Leicester,Shopping Mall,2019,4613,False,0.0
+STR-038,Stoke High Street (Core),Core,Midlands,Stoke,High Street,2015,3082,False,0.0
+STR-039,Nottingham Shopping Mall (Value),Value,Midlands,Nottingham,Shopping Mall,2018,3777,False,0.0
+STR-040,Stoke Shopping Mall (Value),Value,Midlands,Stoke,Shopping Mall,2020,3220,False,0.0
+STR-041,Nottingham High Street (Value),Value,Midlands,Nottingham,High Street,2013,3351,False,0.0
+STR-042,Nottingham High Street (Premium),Premium,Midlands,Nottingham,High Street,2017,2787,False,0.0
+STR-043,Glasgow High Street (Core),Core,Scotland,Glasgow,High Street,2009,2651,False,0.0
+STR-044,Edinburgh Retail Park (Core),Core,Scotland,Edinburgh,Retail Park,2008,5986,False,0.0
+STR-045,Dundee Shopping Mall (Core),Core,Scotland,Dundee,Shopping Mall,2019,3822,True,14.3
+STR-046,Edinburgh High Street (Core),Core,Scotland,Edinburgh,High Street,2020,2133,False,0.0
+STR-047,Aberdeen Shopping Mall (Value),Value,Scotland,Aberdeen,Shopping Mall,2011,4969,False,0.0
+STR-048,Dundee High Street (Value),Value,Scotland,Dundee,High Street,2017,1569,False,0.0
+STR-049,Aberdeen High Street (Core),Core,Scotland,Aberdeen,High Street,2015,1236,False,0.0
+STR-050,Inverness Retail Park (Core),Core,Scotland,Inverness,Retail Park,2014,6475,False,0.0
+STR-051,Dundee Retail Park (Value),Value,Scotland,Dundee,Retail Park,2011,6281,False,0.0
+STR-052,Glasgow Shopping Mall (Core),Core,Scotland,Glasgow,Shopping Mall,2012,4732,False,0.0
+STR-053,Exeter Retail Park (Core),Core,South West,Exeter,Retail Park,2012,4933,True,18.6
+STR-054,Exeter Shopping Mall (Premium),Premium,South West,Exeter,Shopping Mall,2016,3967,False,0.0
+STR-055,Bristol Shopping Mall (Core),Core,South West,Bristol,Shopping Mall,2015,4856,False,0.0
+STR-056,Bath Shopping Mall (Core),Core,South West,Bath,Shopping Mall,2011,4776,False,0.0
+STR-057,Plymouth Shopping Mall (Premium),Premium,South West,Plymouth,Shopping Mall,2010,4864,False,0.0
+STR-058,Taunton Retail Park (Core),Core,South West,Taunton,Retail Park,2011,5142,False,0.0
+STR-059,Exeter Retail Park (Value),Value,South West,Exeter,Retail Park,2013,4650,False,0.0
+STR-060,Truro Shopping Mall (Value),Value,South West,Truro,Shopping Mall,2020,3440,False,0.0

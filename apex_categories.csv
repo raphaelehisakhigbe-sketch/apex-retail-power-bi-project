@@ -1,0 +1,9 @@
+category_id,category_name,gross_margin_pct,brand_affinity
+CAT-01,Clothing,42,All brands
+CAT-02,Electronics,18,Core + Premium
+CAT-03,Homeware,38,All brands
+CAT-04,Sports,35,All brands
+CAT-05,Beauty,55,Core + Premium
+CAT-06,Food & Drink,22,All brands
+CAT-07,Toys,40,All brands
+CAT-08,Books,30,All brands
