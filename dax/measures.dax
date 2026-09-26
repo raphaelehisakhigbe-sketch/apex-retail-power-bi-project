@@ -1,0 +1,34 @@
+// Apex Retail Group — Key DAX Measures
+// Referenced in README.md. These two are quoted verbatim from the
+// live report. The full measure list is in Apex_Retail_Group.pbix —
+// open it in Power BI Desktop and check Model view to see every
+// measure and its exact formula.
+
+
+// ─────────────────────────────────────────────
+// REGION-SCOPED RANKING
+// Ranks each store against its regional peers rather than the whole
+// company, using ALLEXCEPT instead of ALL. This surfaces stores that
+// look mid-table nationally but are structurally underperforming
+// inside their own region.
+// ─────────────────────────────────────────────
+
+Store Margin Rank (Region) =
+RANKX(
+    ALLEXCEPT(Stores, Stores[region]),
+    [Gross Margin %],
+    ,
+    DESC
+)
+
+
+// ─────────────────────────────────────────────
+// SCALE-MISMATCH FIX
+// Categories[gross_margin_pct] is stored as a whole number (55 meaning
+// 55%), while the equivalent measure returns a true decimal (0.55).
+// Plotting them together without this wrapper broke the chart axis
+// (values running into the thousands of percent).
+// ─────────────────────────────────────────────
+
+Category Margin Benchmark % =
+DIVIDE( AVERAGE( Categories[gross_margin_pct] ), 100 )
